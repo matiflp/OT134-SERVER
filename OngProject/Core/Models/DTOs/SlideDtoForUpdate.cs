@@ -1,0 +1,19 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace OngProject.Core.Models.DTOs
+{
+    public class SlideDtoForUpdate
+    {
+        [Display(Name = "UrlDeImagen")]
+        public string ImageUrl { get; set; }
+
+        [Display(Name = "Texto")]
+        [StringLength(2000)]
+        public string Text { get; set; }
+
+        [Display(Name = "Orden")]
+        //[StringLength(255)]
+        public int Order { get; set; }
+
+    }
+}

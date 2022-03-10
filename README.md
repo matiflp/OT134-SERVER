@@ -1,5 +1,29 @@
-# base-ong-server-csharp
-Repositorio base para Caso ONG de C#
+# Ong - Somos Más
+
+## Proyecto desarrollado en la aceleración de Alkemy
+
+### Descripcion del proyecto
+
+Web API desarrollada para la organización Somos Más.
+
+### Tecnologias utilizadas
+- .Net Core 5
+- Entity Framework Core
+- SQL Server
+- JWT
+- SendGrid
+
+### Integrantes:
+
+- [Javier Paez](https://github.com/JaviPaez)
+- [Emiliano Bazan Zapata](https://github.com/EmilianoBazanZapata)
+- [Matias Lopez](https://github.com/matiflp)
+- [Luciana Monardez](https://github.com/LucianaMonardez)
+- [Jose Luis Fernandez](https://github.com/JoseLuisFernandezGit)
+- [Alan Lopez](https://github.com/alanlo97)
+- [Pablo Molinas](https://github.com/pablomolinas)
+
+### Datos de prueba
 
 Datos de Usuarios sin Permisos de Administrador : 
 
